@@ -1,4 +1,4 @@
-how to Update AVG Software?
+How to Update AVG Software?
 ========================
 
 The AVG Software Updater is a powerful tool designed to keep your applications and software up-to-date. By ensuring that your programs are running the latest versions, AVG Software Updater enhances system performance, provides new features, and, most importantly, ensures that your system is secure from potential vulnerabilities.
